@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T07:44:58.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="AY64yN7nOoJHsmUyr3u8" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T07:56:45.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="3TwYKoFo8phX17ExJ9qC" version="13.10.1" type="github">
   <diagram id="HV86x6wX_cSF6RMlQHs8" name="Page-1">
     <mxGraphModel dx="1158" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,10 +53,10 @@
           <mxGeometry x="580" y="387" width="20" height="250" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-24" value="Couldn&#39;t prefer one of these energy sources over other." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="765" width="130" height="60" as="geometry" />
+          <mxGeometry x="605" y="770" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-26" value="&lt;span&gt;&amp;nbsp;From negligible to substantial in comparision with other risks to population.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="682" width="130" height="60" as="geometry" />
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-26" value="&lt;span&gt;&amp;nbsp;The ranges from negligible to substantial in comparision with other risks to population.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="680" width="135" height="72" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-27" value="The menace from traditional fuels for cooking and water heating in developing world." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="1040" width="130" height="60" as="geometry" />
@@ -150,8 +150,8 @@
             <mxPoint x="540" y="467" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-90" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;The estimated hazard to public health from both coal-fired and nuclear-power plants.&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389" y="720" width="121" height="70" as="geometry" />
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-90" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;The estimated hazard of coal-fired and nuclear-power plants.&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="720" width="131" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-95" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Dominant threat &lt;br&gt;is thought to be particulates formed from SO2 emissions&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="467" y="188.82" width="135" height="94" as="geometry" />
@@ -163,7 +163,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-97" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="523.5" y="709" width="20" height="95" as="geometry" />
+          <mxGeometry x="578.5" y="709" width="20" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
