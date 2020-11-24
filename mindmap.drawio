@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T13:23:56.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="cw7_JEPZJHlBM0F_KPnP" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T13:24:14.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="GDNp7ok0grsUUCoebX0t" version="13.10.1" type="github">
   <diagram id="HV86x6wX_cSF6RMlQHs8" name="Page-1">
     <mxGraphModel dx="1022" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
           <mxGeometry x="480.25" y="384" width="20" height="268" as="geometry" />
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-24" value="So,couldn&#39;t prefer one of these energy sources over other." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#67AB9F;" parent="1" vertex="1">
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-24" value="So, it couldn&#39;t prefer one of these energy sources over other." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#67AB9F;" parent="1" vertex="1">
           <mxGeometry x="494.75" y="765" width="133.25" height="75" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-29" value="Perhaps 80% of global exposure to particulate air pollution occurs indoors in developing countries." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFB366;" parent="1" vertex="1">
