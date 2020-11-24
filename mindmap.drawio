@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T12:07:17.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="8sunfCK1r8d3tKypmu1p" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T12:26:55.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="80QLwzxDULscVu3Ez81e" version="13.10.1" type="github">
   <diagram id="HV86x6wX_cSF6RMlQHs8" name="Page-1">
-    <mxGraphModel dx="1231" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1231" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,16 +10,16 @@
             <mxPoint x="668.5" y="277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-1" value="Two of greatest concerns in energy." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="14" y="740" width="92" height="50" as="geometry" />
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-1" value="&lt;font color=&quot;#67ab9f&quot;&gt;p8:&lt;/font&gt;Two of greatest concerns in energy." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="14" y="735" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="106" y="629" width="20" height="272" as="geometry" />
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-4" value="The impacts of energy supplied on the global ecosystem and on internetional relations." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-4" value="&lt;font color=&quot;#67ab9f&quot;&gt;p8:&lt;/font&gt;The impacts of energy supplied on the global ecosystem and on internetional relations." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="126" y="855" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-5" value="The impacts of emissions or accident at energy facilities on public health and safety." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-5" value="&lt;font color=&quot;#67ab9f&quot;&gt;p8&lt;/font&gt;:The impacts of emissions or accident at energy facilities on public health and safety." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="128" y="589" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-9" value="Nuclear fission.&lt;br&gt;(nuclear- power)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" vertex="1" parent="1">
