@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T13:24:14.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="GDNp7ok0grsUUCoebX0t" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T13:24:37.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="mEGkNuZAqY-Vv6WHa4Yo" version="13.10.1" type="github">
   <diagram id="HV86x6wX_cSF6RMlQHs8" name="Page-1">
     <mxGraphModel dx="1022" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-63" value="Don&#39;t have a consensus on the number of deaths caused by exposure." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="495.75" y="246" width="120" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-75" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#a680b8&quot;&gt;It is difficlut to&lt;br&gt;&amp;nbsp;pin down &lt;br&gt;the impacts.&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-75" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#a680b8&quot;&gt;It is difficult to&lt;br&gt;&amp;nbsp;pin down &lt;br&gt;the impacts.&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="208" y="530" width="108" height="55" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-78" value="&lt;font color=&quot;#a680b8&quot;&gt;Differing estimates &lt;br&gt;results from&amp;nbsp;&lt;br&gt;different assumptions.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
