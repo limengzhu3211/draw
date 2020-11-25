@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T08:52:18.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="xo5Ka4bkIutEKWrM4N00" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T08:56:08.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="eIywzbpmFxkfoB_zSszY" version="13.10.2" type="github">
   <diagram id="HV86x6wX_cSF6RMlQHs8" name="Page-1">
-    <mxGraphModel dx="1151" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1918" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,17 +76,11 @@
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-38" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
           <mxGeometry x="224" y="230" width="16" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-88" value="&lt;font color=&quot;#a680b8&quot;&gt;Differing &lt;br&gt;estimates result from these parts.&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="354" y="400" width="102" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-89" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="405" y="494" as="sourcePoint" />
-            <mxPoint x="405" y="466" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-88" value="&lt;font color=&quot;#a680b8&quot;&gt;Factors can&#39;t pin down&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="151" width="130" height="59" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-90" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font color=&quot;#ea6b66&quot;&gt;p11:&lt;/font&gt;&lt;font color=&quot;#ff8000&quot;&gt;Summary:&lt;/font&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Both&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;estimated hazard of coal-fired and nuclear-power plants are uncertain.&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#67AB9F;" parent="1" vertex="1">
-          <mxGeometry x="240.38" y="558" width="125" height="81" as="geometry" />
+          <mxGeometry x="242.5" y="559" width="125" height="81" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-95" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font color=&quot;#a680b8&quot;&gt;Dominant threat:&amp;nbsp;&lt;br&gt;SO2&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="251.63" y="291" width="106" height="40" as="geometry" />
@@ -120,6 +114,21 @@
             <mxPoint x="369" y="494.5" as="sourcePoint" />
             <mxPoint x="457" y="494.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7K0sSuBlMlSPteVXjT9V-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="404.5" y="227" as="sourcePoint" />
+            <mxPoint x="404.5" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7K0sSuBlMlSPteVXjT9V-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="404.5" y="491" as="sourcePoint" />
+            <mxPoint x="404.5" y="463" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7K0sSuBlMlSPteVXjT9V-11" value="&lt;font color=&quot;#a680b8&quot;&gt;Factors can&#39;t pin down&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="415" width="130" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
