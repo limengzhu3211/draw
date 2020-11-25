@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T08:56:08.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="eIywzbpmFxkfoB_zSszY" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T09:02:48.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="9V6Ahm1mRj8iu_YBESJj" version="13.10.2" type="github">
   <diagram id="HV86x6wX_cSF6RMlQHs8" name="Page-1">
-    <mxGraphModel dx="1918" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="959" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-17" value="&amp;nbsp;Differences among sites and reactor types." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="479" y="383" width="297" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-18" value="Uncertainties about emissions from unfully operational&lt;br&gt;fuel-cycle steps." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-18" value="Emissions from unfully operational&lt;br&gt;fuel-cycle steps." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="479" y="439" width="297" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-19" value="Different assumptions about effects of exposure to low-dose radiation." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
@@ -76,7 +76,7 @@
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-38" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
           <mxGeometry x="224" y="230" width="16" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-88" value="&lt;font color=&quot;#a680b8&quot;&gt;Factors can&#39;t pin down&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-88" value="&lt;font color=&quot;#a680b8&quot;&gt;Impacts of these ways&lt;br&gt;are uncertain.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="151" width="130" height="59" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-90" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font color=&quot;#ea6b66&quot;&gt;p11:&lt;/font&gt;&lt;font color=&quot;#ff8000&quot;&gt;Summary:&lt;/font&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Both&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;estimated hazard of coal-fired and nuclear-power plants are uncertain.&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#67AB9F;" parent="1" vertex="1">
@@ -127,8 +127,8 @@
             <mxPoint x="404.5" y="463" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7K0sSuBlMlSPteVXjT9V-11" value="&lt;font color=&quot;#a680b8&quot;&gt;Factors can&#39;t pin down&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="415" width="130" height="59" as="geometry" />
+        <mxCell id="7K0sSuBlMlSPteVXjT9V-12" value="&lt;font color=&quot;#a680b8&quot;&gt;Impacts of these ways&lt;br&gt;are uncertain.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="130" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
