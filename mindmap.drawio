@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T01:31:51.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="mYML-T1H4UmY8ZgeX-aX" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T07:47:27.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="U5WjEz0r30_Y5D57tJUP" version="13.10.2" type="github">
   <diagram id="HV86x6wX_cSF6RMlQHs8" name="Page-1">
-    <mxGraphModel dx="1022" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1151" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="608" y="277" as="sourcePoint" />
-            <mxPoint x="668.5" y="277" as="targetPoint" />
+            <mxPoint x="606" y="277" as="sourcePoint" />
+            <mxPoint x="666.5" y="277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-1" value="&lt;font color=&quot;#ea6b66&quot;&gt;p8:&lt;/font&gt;Two of greatest concerns in energy." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#B3B3B3;" parent="1" vertex="1">
@@ -55,17 +55,14 @@
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
           <mxGeometry x="480.25" y="384" width="20" height="268" as="geometry" />
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-24" value="In these ranges, little basis on preferring using one of energy sources than others is better." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#67AB9F;" parent="1" vertex="1">
-          <mxGeometry x="494.75" y="765" width="133.25" height="75" as="geometry" />
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-29" value="Global exposure to particulate air pollution." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFB366;" parent="1" vertex="1">
+          <mxGeometry x="610" y="855" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-29" value="Perhaps 80% of global exposure to particulate air pollution." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFB366;" parent="1" vertex="1">
-          <mxGeometry x="610" y="855" width="200" height="60" as="geometry" />
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-30" value="Women&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFB366;" parent="1" vertex="1">
+          <mxGeometry x="610" y="1000" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-30" value="Women who do the cooking." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFB366;" parent="1" vertex="1">
-          <mxGeometry x="610" y="1000" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-32" value="Small children who are indoors with their mothers." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFB366;" parent="1" vertex="1">
-          <mxGeometry x="610" y="1055" width="200" height="40" as="geometry" />
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-32" value="Small children&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFB366;" parent="1" vertex="1">
+          <mxGeometry x="610" y="1055" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-33" value="Victims" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="506.25" y="1026" width="79.5" height="40" as="geometry" />
@@ -85,20 +82,11 @@
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-38" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
           <mxGeometry x="300" y="277" width="16" height="718" as="geometry" />
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-63" value="Don&#39;t have a consensus on the number of deaths caused by exposure." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="495.75" y="240" width="120" height="80" as="geometry" />
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-63" value="Don&#39;t have a consensus ." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
+          <mxGeometry x="495.75" y="243" width="104.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-75" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#a680b8&quot;&gt;It is difficult to&lt;br&gt;&amp;nbsp;pin down &lt;br&gt;the impacts.&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="208" y="530" width="108" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-78" value="&lt;font color=&quot;#a680b8&quot;&gt;Differing estimates &lt;br&gt;results from&amp;nbsp;&lt;br&gt;different assumptions.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="571.5" y="173" width="106.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-82" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="635.5" y="277" as="sourcePoint" />
-            <mxPoint x="636" y="229" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-84" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -122,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-90" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font color=&quot;#ea6b66&quot;&gt;p11:&lt;/font&gt;&lt;font color=&quot;#ff8000&quot;&gt;Summary:&lt;/font&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Both&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;br&gt;estimated hazard of coal-fired and nuclear-power plants are uncertain.&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#67AB9F;" parent="1" vertex="1">
-          <mxGeometry x="316" y="761" width="131" height="80" as="geometry" />
+          <mxGeometry x="316" y="715" width="131" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-95" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font color=&quot;#a680b8&quot;&gt;Dominant threat:&amp;nbsp;&lt;br&gt;SO2&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(166 , 128 , 184) ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;particulates&#39;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font color=&quot;#a680b8&quot;&gt;&lt;br&gt;emission.&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="411.5" y="158" width="102.5" height="92" as="geometry" />
@@ -133,8 +121,8 @@
             <mxPoint x="460.65999999999997" y="237" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-101" value="&lt;span&gt;The smoke is heavily laden with dangerous hydrocarbons.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFB366;" parent="1" vertex="1">
-          <mxGeometry x="610" y="929" width="200" height="51" as="geometry" />
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-101" value="&lt;span&gt;Dangerous hydrocarbons.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFB366;" parent="1" vertex="1">
+          <mxGeometry x="610" y="929" width="150" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-102" value="Menaces" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="505.75" y="904.5" width="80" height="41" as="geometry" />
@@ -145,25 +133,6 @@
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-104" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
           <mxGeometry x="590" y="885" width="20" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-111" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 150%&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;font color=&quot;#a680b8&quot;&gt;Ranges of estimates from negligible level to substantial level.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="410" y="709" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-112" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="476" y="793" as="sourcePoint" />
-            <mxPoint x="476" y="767" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="447" y="797.5" as="sourcePoint" />
-            <mxPoint x="494" y="798" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="469" y="798" />
-              <mxPoint x="469" y="798" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-130" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="636" as="sourcePoint" />
@@ -172,28 +141,6 @@
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-137" value="Fuel compositions." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="682" y="95" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="631" y="797" as="sourcePoint" />
-            <mxPoint x="680" y="796.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="631" y="797" />
-              <mxPoint x="631" y="797" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-140" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="793" as="sourcePoint" />
-            <mxPoint x="650" y="768" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-141" value="The uncertainty is a significant liability." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#67AB9F;" parent="1" vertex="1">
-          <mxGeometry x="682" y="764" width="128" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-142" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 150%&quot;&gt;&lt;font color=&quot;#a680b8&quot;&gt;Both hazards are uncertain.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="599" y="711" width="109" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-144" value="&lt;font color=&quot;#ea6b66&quot;&gt;p12:&lt;/font&gt;Traditional fuels with primitive burning.&amp;nbsp;&lt;br&gt;(cooking and water heating&lt;br&gt;&amp;nbsp;in developing world.)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="318.75" y="945.5" width="161.5" height="74.5" as="geometry" />
