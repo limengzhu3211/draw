@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T11:27:38.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="VmgOvz2miHiQOWMaJE4d" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T11:29:06.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="nqG21EQa9gvGo0cvlEfW" version="13.10.2" type="github">
   <diagram id="HV86x6wX_cSF6RMlQHs8" name="Page-1">
-    <mxGraphModel dx="705" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="705" dy="301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
           <mxGeometry x="99" y="356.68" width="9" height="193.32" as="geometry" />
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-4" value="&lt;font color=&quot;#ea6b66&quot;&gt;p8:&lt;/font&gt;The impacts of suplied energy on ecosystem and international relations." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#B3B3B3;" parent="1" vertex="1">
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-4" value="&lt;font color=&quot;#ea6b66&quot;&gt;p8:&lt;/font&gt;The impacts of suplied energy on the global ecosystem and international relations." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="110" y="510" width="170" height="67.25" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-5" value="&lt;font color=&quot;#ea6b66&quot;&gt;p8:&lt;/font&gt;The impacts of energy emssion and accident on public health and safety." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#B3B3B3;" parent="1" vertex="1">
