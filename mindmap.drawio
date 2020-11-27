@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T07:36:11.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="D34h8XjAY0iWH7mAbpPi" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T08:05:54.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="pQRYQqFXyd2aKNFYCBKR" version="13.10.2" type="github">
   <diagram id="HV86x6wX_cSF6RMlQHs8" name="Page-1">
-    <mxGraphModel dx="705" dy="301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="705" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-19" value="&amp;nbsp;Effects of exposure to low-dose radiation." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="442.75" y="388.87" width="297" height="41.5" as="geometry" />
         </mxCell>
-        <mxCell id="3WgbJdYwUAd_oNcYUVg1-20" value="Probabilities and consequences of large accidents at reactors and so on. (important)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#EA6B66;" parent="1" vertex="1">
+        <mxCell id="3WgbJdYwUAd_oNcYUVg1-20" value="Probabilities and consequences of large accidents. (important)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="443.75" y="439.68" width="297" height="42" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
