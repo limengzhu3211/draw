@@ -1,83 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T10:17:50.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="oB-j_oAA5e-ZaV4ZMNo6" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T10:39:58.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="e2HkumQtU0uzbTIWwH9_" version="13.10.4" type="github">
   <diagram id="HV86x6wX_cSF6RMlQHs8" name="Page-1">
-    <mxGraphModel dx="1460" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1703" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-1" value="&lt;font color=&quot;#ea6b66&quot;&gt;p8:&lt;/font&gt;Two greatest concerns in energy impacts." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="15" y="422.34" width="92" height="60" as="geometry" />
+          <mxGeometry y="515.3399999999999" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
-          <mxGeometry x="108" y="355.68" width="9" height="193.32" as="geometry" />
+          <mxGeometry x="93" y="448.68" width="9" height="193.32" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-4" value="&lt;font color=&quot;#ea6b66&quot;&gt;p8:&lt;/font&gt;Suplied energy on ecosystem and international relations." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="119" y="506" width="180" height="67.25" as="geometry" />
+          <mxGeometry x="104" y="599" width="180" height="67.25" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-5" value="&lt;font color=&quot;#ea6b66&quot;&gt;p8:&lt;/font&gt;Energy emssion and accident on public health and safety." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="120" y="327.5" width="179" height="61.37" as="geometry" />
+          <mxGeometry x="105" y="420.5" width="179" height="61.37" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-11" value="Air pollution control technology." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="470.75" y="90" width="297" height="40" as="geometry" />
+          <mxGeometry x="612.41" y="130" width="297" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-12" value="Power-plant siting related to population distribution." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="470.75" y="140.5" width="297" height="40" as="geometry" />
+          <mxGeometry x="612.41" y="180.5" width="297" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-13" value="Meteorological conditions affecting sulfate formation." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="470.75" y="190" width="297" height="40" as="geometry" />
+          <mxGeometry x="612.41" y="230" width="297" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-14" value="Relation between sulfate concentrations and disease. &lt;br&gt;(important)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#EA6B66;" parent="1" vertex="1">
-          <mxGeometry x="470.26" y="239" width="297" height="40" as="geometry" />
+          <mxGeometry x="611.92" y="279" width="297" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
-          <mxGeometry x="457" y="61" width="13.26" height="199" as="geometry" />
+          <mxGeometry x="598.66" y="101" width="13.26" height="199" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-17" value="&amp;nbsp;Differences among sites and reactor types." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="469.75" y="287.5" width="297" height="40" as="geometry" />
+          <mxGeometry x="611.41" y="327.5" width="297" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-18" value="Emissions from unfully operational fuel-cycle steps." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="469.75" y="338.18" width="297" height="40" as="geometry" />
+          <mxGeometry x="611.41" y="378.18" width="297" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-19" value="&amp;nbsp;Assumptions of exposure to low-dose radiation." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="469.75" y="388.87" width="297" height="41.5" as="geometry" />
+          <mxGeometry x="611.41" y="428.86999999999995" width="297" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-20" value="Probabilities and consequences of large accidents. (important)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#EA6B66;" parent="1" vertex="1">
-          <mxGeometry x="470.75" y="439.68" width="297" height="42" as="geometry" />
+          <mxGeometry x="612.41" y="479.68" width="297" height="42" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
-          <mxGeometry x="457" y="303.18" width="12.75" height="157.82" as="geometry" />
+          <mxGeometry x="598.66" y="343.18" width="12.75" height="157.82" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-33" value="Victims: women and small children." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFB366;" parent="1" vertex="1">
-          <mxGeometry x="469.75" y="540" width="296" height="40" as="geometry" />
+          <mxGeometry x="455.14" y="587.3399999999999" width="296" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-37" value="&lt;font color=&quot;#ea6b66&quot;&gt;p9:&lt;/font&gt;Fossil fuels&amp;nbsp; emmision. (coal-fired)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="314.34" y="147" width="140.66" height="43" as="geometry" />
+          <mxGeometry x="456" y="187" width="140.66" height="43" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-38" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
-          <mxGeometry x="299" y="170" width="16" height="370" as="geometry" />
+          <mxGeometry x="440.65999999999997" y="210" width="16" height="210" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-102" value="Menaces: particulate air pollution and dangerous hydrocarbons." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFB366;" parent="1" vertex="1">
-          <mxGeometry x="470.63" y="491" width="295.25" height="41" as="geometry" />
+          <mxGeometry x="456.02" y="538.3399999999999" width="295.25" height="41" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-103" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="456.5" y="507" width="14.25" height="60" as="geometry" />
+          <mxGeometry x="441.89" y="554.3399999999999" width="14.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-137" value="Fuel compositions." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="470.26" y="40" width="297" height="40" as="geometry" />
+          <mxGeometry x="611.92" y="80" width="297" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3WgbJdYwUAd_oNcYUVg1-144" value="&lt;font color=&quot;#ea6b66&quot;&gt;p12:&lt;/font&gt;Traditional fuels with primitive indoor burning.&amp;nbsp;&lt;br&gt;(developing world)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFB366;" parent="1" vertex="1">
-          <mxGeometry x="316" y="506.5" width="140" height="67.5" as="geometry" />
-        </mxCell>
-        <mxCell id="LgpAU1ASlen3jR-h9CQE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LgpAU1ASlen3jR-h9CQE-2" target="3WgbJdYwUAd_oNcYUVg1-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LgpAU1ASlen3jR-h9CQE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LgpAU1ASlen3jR-h9CQE-2" target="LgpAU1ASlen3jR-h9CQE-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="301.39" y="553.8399999999999" width="140" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="LgpAU1ASlen3jR-h9CQE-2" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font color=&quot;#ea6b66&quot;&gt;p11:&lt;/font&gt;&lt;font color=&quot;#ff8000&quot;&gt;Summary:&lt;/font&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Both&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;hazards of coal-fired and nuclear-power plants are uncertain.&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#67AB9F;" parent="1" vertex="1">
-          <mxGeometry x="314.34" y="234.18" width="140.66" height="73" as="geometry" />
+          <mxGeometry x="300" y="280" width="140.66" height="73" as="geometry" />
         </mxCell>
         <mxCell id="LgpAU1ASlen3jR-h9CQE-5" value="&lt;font color=&quot;#ea6b66&quot;&gt;p10:&lt;/font&gt;&lt;span&gt;Nuclear fission.&lt;/span&gt;&lt;br&gt;&lt;span&gt;(nuclear- power)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="314.34" y="360.59" width="140.66" height="43" as="geometry" />
+          <mxGeometry x="456" y="400.59" width="140.66" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="nsUcKUmJYcswVmvE2ttX-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="284" y="309.34000000000003" width="16" height="285.59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
