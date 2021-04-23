@@ -1,95 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T09:17:34.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="cRoPA_-VVXWYFT00ncpj" version="14.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-23T10:57:43.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="Rg44xxtgpciacZg_ZXel" version="14.6.5" type="github">
   <diagram id="Z1eAZeeeABwANcDO4HzM" name="Page-1">
-    <mxGraphModel dx="694" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1494" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-1" value="骨架行为识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-3" value="输入模态/邻接矩阵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="131" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-4" value="2S-AGCN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-5" value="DGNN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-6" value="AS-GCN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-7" value="SGN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-8" value="分区划分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="131" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-9" value="PBGCN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-10" value="PA-ResGCN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-12" value="时序建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="131" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-13" value="MS-G3D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-14" value="&lt;span class=&quot;fontstyle0&quot;&gt;Motif-STGCN&lt;/span&gt; &lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-15" value="CA-GC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-16" value="&lt;span class=&quot;fontstyle0&quot;&gt;Decoupling GCN with DropGraph&lt;/span&gt; &lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-17" value="CNN中网络结构和迁移机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="131" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-18" value="&lt;span class=&quot;fontstyle0&quot;&gt;Dynamic GCN&lt;/span&gt; &lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-18" value="&lt;span class=&quot;fontstyle0&quot;&gt;DGCN&lt;/span&gt; " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-19" value="&lt;span class=&quot;fontstyle0&quot;&gt;Shift-GCN&lt;/span&gt; &lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-20" value="STIGCN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-23" value="MMDGCN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="370" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-25" value="MV-IGNet" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-26" value="无监督" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="131" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-27" value="P&amp;amp;C FW-ACE" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="390" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-29" value="DPRL" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="390" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-30" value="DMGNN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="370" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-31" value="关键帧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="131" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-32" value="SAGE-GCN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="340" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-34" value="GCN模型&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-36" value="Light GCN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="480" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-37" value="CSG-CNN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="340" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-38" value="GraphSAINT" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="480" y="940" width="120" height="60" as="geometry" />
@@ -98,7 +98,40 @@
           <mxGeometry x="640" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-41" value="Multi-attention Networks for Temporal Localization of Video-level labes" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="750" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-42" value="SSGRL" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-43" value="ST-GCN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry y="107" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-47" value="视频内容理解" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-48" value="Video as Space-Time Region Graph" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="131" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-49" value="I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="276" y="660" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-50" value="Action Genome:Action as Commposition of Spatio-temporal Scene Graphs&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="660" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-52" value="多标签分类" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-53" value="Boosting Up Segment-level Video Classification Performance with Label Correlarion and Reweighting" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="131" y="750" width="229" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-54" value="Cross-GCM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="750" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-55" value="Multi-Label Image Recognition with Graph Convolutional NetWorks" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="840" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-56" value="Multi-Label Classfication with Graph Superimposing" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="840" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
