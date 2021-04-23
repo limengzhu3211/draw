@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T11:00:02.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="HPCzEsOlaf7yvHf1WYvJ" version="14.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-23T11:00:59.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="3C-vQ9RGO731LKE5MuvQ" version="14.6.5" type="github">
   <diagram id="Z1eAZeeeABwANcDO4HzM" name="Page-1">
     <mxGraphModel dx="1494" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-40" value="DeepGCNs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="550" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-41" value="Multi-attention Networks for Temporal Localization of Video-level labes" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-41" value="Multi-attention Networks for Temporal Localization of Video-level labes" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="480" y="750" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-42" value="SSGRL" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;fillColor=#D5E8D4;" vertex="1" parent="1">
@@ -106,31 +106,31 @@
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-43" value="ST-GCN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry y="107" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-47" value="视频内容理解" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-47" value="视频内容理解" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-48" value="Video as Space-Time Region Graph" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-48" value="Video as Space-Time Region Graph" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="131" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-49" value="I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-49" value="I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="276" y="660" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-50" value="Action Genome:Action as Commposition of Spatio-temporal Scene Graphs&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-50" value="Action Genome:Action as Commposition of Spatio-temporal Scene Graphs&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="510" y="660" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-52" value="多标签分类" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-52" value="多标签分类" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-53" value="Boosting Up Segment-level Video Classification Performance with Label Correlarion and Reweighting" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-53" value="Boosting Up Segment-level Video Classification Performance with Label Correlarion and Reweighting" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="131" y="750" width="229" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-54" value="Cross-GCM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-54" value="Cross-GCM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="370" y="750" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-55" value="Multi-Label Image Recognition with Graph Convolutional NetWorks" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-55" value="Multi-Label Image Recognition with Graph Convolutional NetWorks" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="130" y="840" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-56" value="Multi-Label Classfication with Graph Superimposing" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-56" value="Multi-Label Classfication with Graph Superimposing" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="370" y="840" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-57" value="DropEdge" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D5E8D4;" vertex="1" parent="1">
