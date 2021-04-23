@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T10:58:20.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="272ShoLf26Ok7yEbPQnW" version="14.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-23T11:00:02.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="HPCzEsOlaf7yvHf1WYvJ" version="14.6.5" type="github">
   <diagram id="Z1eAZeeeABwANcDO4HzM" name="Page-1">
     <mxGraphModel dx="1494" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,29 +79,29 @@
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-31" value="关键帧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="131" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-32" value="SAGE-GCN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1030" width="120" height="60" as="geometry" />
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-32" value="SAGE-GCN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="131" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-34" value="GCN模型&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1060" width="120" height="60" as="geometry" />
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-34" value="GCN模型&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-36" value="Light GCN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1110" width="120" height="60" as="geometry" />
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-36" value="Light GCN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-37" value="CSG-CNN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1109" width="120" height="60" as="geometry" />
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-37" value="CSG-CNN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-38" value="GraphSAINT" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="480" y="940" width="120" height="60" as="geometry" />
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-38" value="GraphSAINT" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="410" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-40" value="DeepGCNs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="640" y="950" width="120" height="60" as="geometry" />
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-40" value="DeepGCNs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="550" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-41" value="Multi-attention Networks for Temporal Localization of Video-level labes" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="480" y="750" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-42" value="SSGRL" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1050" width="120" height="60" as="geometry" />
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-42" value="SSGRL" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EA6B66;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-43" value="ST-GCN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry y="107" width="120" height="60" as="geometry" />
@@ -133,11 +133,11 @@
         <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-56" value="Multi-Label Classfication with Graph Superimposing" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="370" y="840" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-57" value="DropEdge" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="160" y="950" width="120" height="60" as="geometry" />
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-57" value="DropEdge" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="130" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-58" value="Structure-Aware" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="321" y="950" width="120" height="60" as="geometry" />
+        <mxCell id="Pd0_vM5fqgtR_j5t-KUQ-58" value="Structure-Aware" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="270" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
